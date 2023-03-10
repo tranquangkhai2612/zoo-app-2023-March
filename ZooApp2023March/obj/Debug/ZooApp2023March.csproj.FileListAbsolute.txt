@@ -1,0 +1,16 @@
+D:\Learning\C#\ZooApp2023March\ZooApp2023March\obj\Debug\ZooApp2023March.csproj.AssemblyReference.cache
+D:\Learning\C#\ZooApp2023March\ZooApp2023March\obj\Debug\ZooApp2023March.csproj.SuggestedBindingRedirects.cache
+D:\Learning\C#\ZooApp2023March\ZooApp2023March\obj\Debug\MainWindow.g.cs
+D:\Learning\C#\ZooApp2023March\ZooApp2023March\obj\Debug\App.g.cs
+D:\Learning\C#\ZooApp2023March\ZooApp2023March\obj\Debug\ZooApp2023March_MarkupCompile.cache
+D:\Learning\C#\ZooApp2023March\ZooApp2023March\obj\Debug\ZooApp2023March_MarkupCompile.lref
+D:\Learning\C#\ZooApp2023March\ZooApp2023March\bin\Debug\ZooApp2023March.exe.config
+D:\Learning\C#\ZooApp2023March\ZooApp2023March\bin\Debug\ZooApp2023March.exe
+D:\Learning\C#\ZooApp2023March\ZooApp2023March\bin\Debug\ZooApp2023March.pdb
+D:\Learning\C#\ZooApp2023March\ZooApp2023March\obj\Debug\MainWindow.baml
+D:\Learning\C#\ZooApp2023March\ZooApp2023March\obj\Debug\ZooApp2023March.g.resources
+D:\Learning\C#\ZooApp2023March\ZooApp2023March\obj\Debug\ZooApp2023March.Properties.Resources.resources
+D:\Learning\C#\ZooApp2023March\ZooApp2023March\obj\Debug\ZooApp2023March.csproj.GenerateResource.cache
+D:\Learning\C#\ZooApp2023March\ZooApp2023March\obj\Debug\ZooApp2023March.csproj.CoreCompileInputs.cache
+D:\Learning\C#\ZooApp2023March\ZooApp2023March\obj\Debug\ZooApp2023March.exe
+D:\Learning\C#\ZooApp2023March\ZooApp2023March\obj\Debug\ZooApp2023March.pdb
