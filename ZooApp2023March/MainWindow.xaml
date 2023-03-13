@@ -44,7 +44,8 @@
             x:Name="listAllAnimals"
             Margin="525,52,70,102"
             d:ItemsSource="{d:SampleData ItemCount=5}"
-            Background="#ffe5ec" />
+            Background="#ffe5ec"
+            SelectionChanged="listAllAnimals_SelectionChanged" />
         <Button
             Width="162"
             Height="31"
@@ -62,6 +63,7 @@
             HorizontalAlignment="Left"
             VerticalAlignment="Top"
             Background="#06d6a0"
+            Click="AddZoo_Click"
             Content="Add Zoo" />
         <Button
             Width="162"
@@ -70,6 +72,7 @@
             HorizontalAlignment="Left"
             VerticalAlignment="Top"
             Background="#669bbc"
+            Click="UpdateZoo_CLick"
             Content="Update Zoo" />
         <Button
             Width="160"
@@ -78,6 +81,7 @@
             HorizontalAlignment="Left"
             VerticalAlignment="Top"
             Background="#06d6a0"
+            Click="AddAnimal_Click"
             Content="Add Animal" />
         <Button
             Width="160"
@@ -86,6 +90,7 @@
             HorizontalAlignment="Left"
             VerticalAlignment="Top"
             Background="#669bbc"
+            Click="UpdateAnimal_CLick"
             Content="Update Animal" />
         <Button
             Width="188"
@@ -94,6 +99,7 @@
             HorizontalAlignment="Left"
             VerticalAlignment="Top"
             Background="#f28482"
+            Click="DeleteAnimal_Click"
             Content="Delete Animal " />
         <Button
             Width="188"
@@ -102,11 +108,13 @@
             HorizontalAlignment="Left"
             VerticalAlignment="Top"
             Background="#06d6a0"
+            Click="addAnimalToZoo_Click"
             Content="Add Animal to Zoo" />
-        <TextBlock
+        <TextBox
+            Name="MyTextBox"
             Margin="60,298,342,78"
             Background="#dee2e6"
-            Text="TextBlock"
+            Text=""
             TextWrapping="Wrap" />
         <Button
             Width="160"
@@ -115,8 +123,8 @@
             HorizontalAlignment="Left"
             VerticalAlignment="Top"
             Background="#f28482"
-            Click="DeleteZoo_Click"
-            Content="Remove Animal" />
+            Click="RemoveAnimalInZoo_Click"
+            Content="Remove Animal in Zoo" />
 
     </Grid>
 </Window>
